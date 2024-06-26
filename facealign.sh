@@ -6,3 +6,5 @@ python align_faces_parallel.py \
     --input $frames_dir \
     --output $aligned_dir \
     --num_threads 64
+
+cd ..
