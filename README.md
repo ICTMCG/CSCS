@@ -1,5 +1,7 @@
 # Identity-Preserving Face Swapping via Dual Surrogate Generative Models
 
+<a href='https://bone-11.github.io/cs-cs/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+
 This is the repository of the paper ***Identity-Preserving Face Swapping via Dual Surrogate Generative Models***. For now, we upload the inference code and checkpoint.
 
 ## Getting Started
