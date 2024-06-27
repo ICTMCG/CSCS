@@ -20,13 +20,7 @@ and should be placed in *./model/arcface/*
 
 ### Inference Checkpoints
 
-We have uploaded the inference checkpoint in this repository via git-lfs, and it can be downloaded by:
-
-```shell
-git lfs install
-git clone https://github.com/bone-11/cscs.git
-```
-Or you can download the checkpoints from [https://1drv.ms/f/c/64d71f39113d98e4/ElBkLV2YQXdHgJbsc2Aboy8B979bVu6ilvcYxbiGOWClLQ?e=n647fU] and place them at *./*.
+You can download the checkpoints from [https://1drv.ms/f/c/64d71f39113d98e4/ElBkLV2YQXdHgJbsc2Aboy8B979bVu6ilvcYxbiGOWClLQ?e=n647fU] and place them at *./*.
 
 ## Inference
 
