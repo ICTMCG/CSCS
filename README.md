@@ -33,3 +33,12 @@ bash facealign.sh
 bash inference_adapter.sh
 ```
 
+## Training
+
+Download the training data from [TODO] and place them at ./train_data. Then run the following scirpt
+
+```shell
+bash train_adapter.sh
+```
+
+And the results can be found in ./expr/train_smswap_faceshifter_adapter.
