@@ -42,3 +42,21 @@ bash train_adapter.sh
 ```
 
 And the results can be found in ./expr/train_smswap_faceshifter_adapter.
+
+## License and Citation
+CSCS is released only for academic research. Researchers from educational institutes are allowed to use this code and weights freely for non-commercial purposes.
+
+**Reference Format:**
+```
+@article{huang2024cscs,
+  title={Identity-Preserving Face Swapping via Dual Surrogate Generative Models},
+  author={Huang, Ziyao and Tang, Fan and Zhang, Yong and Cao, Juan and Li, Chengyu and Tang, Sheng and Li, Jintao and Lee, Tong-Yee},
+  journal={ACM Transactions on Graphics},
+  volume={43},
+  number={5},
+  pages={1--19},
+  year={2024},
+  publisher={ACM New York, NY, USA}
+}
+```
+
