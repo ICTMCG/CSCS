@@ -44,7 +44,7 @@ bash train_adapter.sh
 And the results can be found in ./expr/train_smswap_faceshifter_adapter.
 
 ## License and Citation
-CSCS is released only for academic research. Researchers from educational institutes are allowed to use this code and weights freely for non-commercial purposes.
+CSCS is released only for academic research. Researchers are allowed to use this code and weights freely for non-commercial purposes.
 
 **Reference Format:**
 ```
