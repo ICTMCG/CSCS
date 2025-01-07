@@ -12,15 +12,13 @@ This is the repository of the paper ***Identity-Preserving Face Swapping via Dua
 pip install -r requirements.txt
 ```
 
-Then download ID encoder weight ms1mv3_arcface_r100_fp16_backbone.pth from:
-
-https://onedrive.live.com/?id=4A83B6B633B029CC!5577&resid=4A83B6B633B029CC!5577&authkey=!AFZjr283nwZHqbA&cid=4a83b6b633b029cc
-
+Then download ID encoder weight ms1mv3_arcface_r100_fp16_backbone.pth from our upload
+[one drive](https://1drv.ms/f/c/64d71f39113d98e4/Eg6nvnA849VAjxFTdh6opXkBXcxB7LQg2w1iwHV2QXyY2Q?e=1BfqpE)
 and should be placed in *./model/arcface/*
 
 ### Inference Checkpoints
 
-You can download the checkpoints from [https://1drv.ms/f/c/64d71f39113d98e4/ElBkLV2YQXdHgJbsc2Aboy8BBhhvct14hvW8sGD87F2Nzg?e=U2Yqxj] and place them at *./*.
+You can download the checkpoints from [one drive](https://1drv.ms/f/c/64d71f39113d98e4/ElBkLV2YQXdHgJbsc2Aboy8BBhhvct14hvW8sGD87F2Nzg?e=U2Yqxj) and place them at *./*.
 
 ## Inference
 
@@ -35,7 +33,7 @@ bash inference_adapter.sh
 
 ## Training
 
-Download the training data from [https://1drv.ms/f/c/64d71f39113d98e4/El8ChUj0d5BIk5yMGkiyR8kB450SvhZYY6d4sm5sksZIeA?e=p4Dk8T] and place them at ./train_data. Then run the following scirpt
+Download the training data from [one drive](https://1drv.ms/f/c/64d71f39113d98e4/El8ChUj0d5BIk5yMGkiyR8kB450SvhZYY6d4sm5sksZIeA?e=p4Dk8T) and place them at ./train_data. Then run the following scirpt
 
 ```shell
 bash train_adapter.sh
