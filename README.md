@@ -1,6 +1,6 @@
 # Identity-Preserving Face Swapping via Dual Surrogate Generative Models
 
-<a href='https://bone-11.github.io/cs-cs/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp; [![Paper Link](https://img.shields.io/badge/Paper-Doi-red)](https://dl.acm.org/doi/10.1145/3676165)
+<a href='https://bone-11.github.io/cs-cs/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp; [![Paper Link](https://img.shields.io/badge/Paper-Doi-red)](https://dl.acm.org/doi/10.1145/3676165) 
 
 This is the repository of the paper ***Identity-Preserving Face Swapping via Dual Surrogate Generative Models***. For now, we upload the inference code and checkpoint.
 
@@ -14,6 +14,7 @@ pip install -r requirements.txt
 
 Then download ID encoder weight ms1mv3_arcface_r100_fp16_backbone.pth from our upload
 [one drive](https://1drv.ms/f/c/64d71f39113d98e4/Eg6nvnA849VAjxFTdh6opXkBXcxB7LQg2w1iwHV2QXyY2Q?e=1BfqpE)
+and [huggingface](https://huggingface.co/ProAudience/cscs)
 and should be placed in *./model/arcface/*
 
 ### Inference Checkpoints
